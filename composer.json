@@ -1,5 +1,5 @@
 {
-    "name": "alexstack/laravel-cms",
+    "name": "huantime/laravel-cms",
     "description": "Simple Bootstrap Laravel CMS for any EXISTING or new Laravel website. Only add few database tables with prefix, not effect your existing database tables. Support both Laravel 5 & Laravel 6. Amila Laravel CMS",
     "type": "library",
     "homepage": "https://github.com/AlexStack/Laravel-CMS/",
@@ -9,7 +9,7 @@
         "issues": "https://github.com/AlexStack/Laravel-CMS/issues"
     },
     "authors": [{
-        "name": "Alex",
+        "name": "Xiaoqing Li",
         "homepage": "https://www.laravelcms.tech"
     }],
     "require": {
